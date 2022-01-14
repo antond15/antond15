@@ -1,1 +1,1 @@
-[![ANTOND.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=antond15&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&icon_color=d4b237&bg_color=202225&text_color=eeeeee&title_color=eeeeee)](https://github.com/anuraghazra/github-readme-stats)
+[![ANTOND.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=antond15&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&icon_color=d4b237&bg_color=22272e&text_color=eeeeee&title_color=eeeeee)](https://github.com/anuraghazra/github-readme-stats)
